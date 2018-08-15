@@ -1,6 +1,0 @@
-for website more content:
-	http://mpedistrict.gov.in/index.aspx
-for gallery:
-	https://bootsnipp.com/snippets/featured/image-gallery-with-fancybox
-for user profile:
-	https://bootsnipp.com/snippets/featured/ui-comments
